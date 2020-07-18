@@ -1,0 +1,13 @@
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.exe
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.deps.json
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.runtimeconfig.json
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.runtimeconfig.dev.json
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.dll
+C:\Users\Pafeu\source\repos\GRA\GRA\bin\Debug\netcoreapp3.1\GRA.pdb
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.csprojAssemblyReference.cache
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.AssemblyInfoInputs.cache
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.AssemblyInfo.cs
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.csproj.CoreCompileInputs.cache
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.dll
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.pdb
+C:\Users\Pafeu\source\repos\GRA\GRA\obj\Debug\netcoreapp3.1\GRA.genruntimeconfig.cache
